@@ -18,8 +18,7 @@
 
 ## Wwise 音频中间件实现
 
-<img width="493" height="1015" alt="Audio" src="https://github.com/user-attachments/assets/840a71bf-92de-4790-a77b-97d5ef1d8769" /><img width="1292" height="755" alt="fs" src="https://github.com/user-attachments/assets/f1d315dc-9755-4c3a-8307-4e00b5b52545" />
-
+<img width="493" height="1015" alt="Audio" src="https://github.com/user-attachments/assets/840a71bf-92de-4790-a77b-97d5ef1d8769" />
 
 ### 环境声基底资产
 
